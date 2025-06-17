@@ -1,0 +1,9 @@
+.lista-productos {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 2rem;
+  justify-content: center;
+  align-items: flex-start;
+  margin: 2rem auto;
+  max-width: 1200px;
+}
